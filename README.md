@@ -5,5 +5,6 @@ development methodology as well as UML modelling, that is able to make intellige
 decisions based on what its current state is and if there is any input from a player, in order to
 create a reliable and robust economy.
 
+This represents a repository of all the source code for this project.
 
 This represents my final years project, where I was able to succesfully create a Goal orantated action planning AI, with the possibility to be expanded. 
